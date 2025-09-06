@@ -1,0 +1,40 @@
+# Core RAG and LLM libraries
+langchain==0.1.0
+langchain-openai==0.0.2
+langchain-community==0.0.10
+langchain-chroma==0.1.0
+langchain-ollama==0.1.0
+
+# Vector databases and embeddings
+chromadb==0.4.22
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+
+# Web framework and UI
+fastapi==0.108.0
+streamlit==1.29.0
+uvicorn==0.25.0
+
+# Data processing and analysis
+pandas==2.1.4
+numpy==1.24.3
+sqlalchemy==2.0.25
+
+# API tools and utilities
+requests==2.31.0
+python-dotenv==1.0.0
+pydantic==2.5.0
+
+# Search and web tools
+duckduckgo-search==4.1.1
+tavily-python==0.3.1
+
+# Guardrails and evaluation
+guardrails-ai==0.4.0
+langsmith==0.0.80
+
+# Additional utilities
+pyyaml==6.0.1
+plotly==5.17.0
+matplotlib==3.8.2
+seaborn==0.13.0

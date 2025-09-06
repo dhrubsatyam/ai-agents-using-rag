@@ -1,0 +1,26 @@
+id,date,company,sector,headline,sentiment,sentiment_score,market_impact,source
+1,2025-08-14,TechCorp,Technology,TechCorp reports strong Q3 cloud revenue growth,positive,0.626,high,WSJ
+2,2025-08-27,TechCorp,Technology,TechCorp announces new AI product launch,negative,-0.765,high,WSJ
+3,2025-08-15,TechCorp,Technology,TechCorp expands data center operations globally,neutral,0.094,high,WSJ
+4,2025-09-02,TechCorp,Technology,TechCorp faces cybersecurity investigation,positive,0.618,medium,Reuters
+5,2025-09-02,TechCorp,Technology,TechCorp partners with major enterprise clients,negative,-0.63,low,Bloomberg
+6,2025-08-28,FinanceInc,Finance,FinanceInc reports record quarterly earnings,positive,0.794,low,WSJ
+7,2025-09-02,FinanceInc,Finance,FinanceInc expands digital banking services,negative,-0.873,high,WSJ
+8,2025-08-13,FinanceInc,Finance,FinanceInc increases lending portfolio,neutral,-0.016,high,Bloomberg
+9,2025-08-24,FinanceInc,Finance,FinanceInc faces regulatory capital requirements,positive,0.849,medium,Financial Times
+10,2025-08-18,FinanceInc,Finance,FinanceInc announces fintech acquisition,negative,-0.661,high,Bloomberg
+11,2025-08-07,HealthPlus,Healthcare,HealthPlus receives FDA approval for new medical device,positive,0.717,low,Financial Times
+12,2025-08-31,HealthPlus,Healthcare,HealthPlus reports positive clinical trial results,negative,-0.741,low,Bloomberg
+13,2025-08-31,HealthPlus,Healthcare,HealthPlus expands pharmaceutical research division,neutral,0.077,medium,Bloomberg
+14,2025-08-29,HealthPlus,Healthcare,HealthPlus faces regulatory inquiry on drug pricing,positive,0.839,medium,Bloomberg
+15,2025-08-17,HealthPlus,Healthcare,HealthPlus announces healthcare technology partnership,negative,-0.665,medium,WSJ
+16,2025-08-21,EnergyGiant,Energy,EnergyGiant completes major solar farm project,positive,0.895,high,Financial Times
+17,2025-08-10,EnergyGiant,Energy,EnergyGiant reports renewable energy growth,negative,-0.767,medium,WSJ
+18,2025-08-12,EnergyGiant,Energy,EnergyGiant expands wind power operations,neutral,0.067,high,WSJ
+19,2025-08-15,EnergyGiant,Energy,EnergyGiant faces environmental compliance review,positive,0.803,low,WSJ
+20,2025-08-18,EnergyGiant,Energy,EnergyGiant announces clean energy investment,negative,-0.718,medium,Reuters
+21,2025-08-28,RetailMax,Retail,RetailMax reports strong holiday sales,positive,0.793,high,Financial Times
+22,2025-08-31,RetailMax,Retail,RetailMax expands e-commerce platform,negative,-0.786,medium,Reuters
+23,2025-08-21,RetailMax,Retail,RetailMax opens new distribution centers,neutral,-0.033,medium,Bloomberg
+24,2025-08-09,RetailMax,Retail,RetailMax faces supply chain disruptions,positive,0.658,medium,Reuters
+25,2025-09-02,RetailMax,Retail,RetailMax announces loyalty program enhancement,negative,-0.897,medium,Financial Times
